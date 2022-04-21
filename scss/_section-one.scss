@@ -1,0 +1,12 @@
+@import 'base/variables';
+
+.one {
+    grid-area: section-one;
+
+    .gif {
+        width: 100%;
+        height: 35rem;
+        margin: auto;
+        display: block;
+    }
+}
